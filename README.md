@@ -6,3 +6,9 @@ dfsfdsfdsfsfsf
 ### 醜死了
 
 #### 好魯喔
+
+```java=
+class main(){
+
+}
+```
